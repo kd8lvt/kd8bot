@@ -12,12 +12,12 @@ See it in action on Fate78's livestreams. http://twitch.tv/fate78
 Feel like something is missing from your stream? Try a customizable point system! Everything from the word the bot uses to\
 describe it, the emoji or symbol used as the dollar-sign equivalent, to the grammar associated to it, even the amount your 
 users get paid (and how often) is customizable!
-
+------------------------------------
 *Chat games*
 
 There are games your users can play too! including, (but not limited to) a point-tossing frenzy! Allowing your users to get a 
 customizable return on their point invesment! (Or, for them to lose some points in the process!)
-    
+------------------------------------
 *Chat moderation* *BETA*
 
 This module includes a banned word list, which (if you haven't guessed already) can be modified to contain any words 
@@ -25,12 +25,12 @@ This module includes a banned word list, which (if you haven't guessed already) 
 
 In the near future, an infraction list will be added, and differing timed bans and permanent bans can be applied, depending on how 
 many times someone has gone against your rules.
-    
+------------------------------------
 *Custom commands*
 
 Commands can be added by your chat moderators, bot owner, and you, the streamer. See the command list on the wiki for more
 information.
-    
+------------------------------------
 *Quotes and Clips*
 
 Your users can get a laugh out of past events, whether on stream or in chat, using our custom-made quote and clip storage system!
@@ -39,7 +39,7 @@ link to be put in chat. Just make sure the bot has moderator, so it doesn't get 
 to a clip!
 
 See the command list on the wiki for more information on how to add or remove clips and quotes.
-
+------------------------------------
  # Price
 Kd8Bot is completely free! All you need is NodeJs, and the required modules (easily installed using out guide on the wiki) as well 
 as the bot itself!
