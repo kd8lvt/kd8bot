@@ -1,0 +1,19 @@
+{
+  "name": "kd8bot",
+  "version": "1.0.0",
+  "description": "Twitch ChatBot by kd8lvt",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flatfile": "^2.0.0",
+    "life-db": "0.0.2",
+    "node-emoji": "^1.8.1",
+    "node-twitchbot": "^2.0.5",
+    "tmi.js": "^1.2.1",
+    "twitch-bot": "^1.0.8"
+  }
+}
