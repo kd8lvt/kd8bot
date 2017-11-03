@@ -9,9 +9,9 @@ See it in action on Fate78's livestreams. http://twitch.tv/fate78
 # Features
 *Point system*
 ------------------------------------
-  Feel like something is missing from your stream? Try a customizable point system! Everything from the word the bot uses to\
-  describe it, the emoji or symbol used as the dollar-sign equivalent, to the grammar associated to it, even the amount your 
-  users get paid (and how often) is customizable!
+   Feel like something is missing from your stream? Try a customizable point system! Everything from the word the bot uses to\
+   describe it, the emoji or symbol used as the dollar-sign equivalent, to the grammar associated to it, even the amount your 
+   users get paid (and how often) is customizable!
 
 *Chat games*
 ------------------------------------
