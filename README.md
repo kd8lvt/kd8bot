@@ -41,11 +41,13 @@ to a clip!
 See the command list on the wiki for more information on how to add or remove clips and quotes.
 
  # Price
-Kd8Bot is completely free! All you need is NodeJs, and the required modules (easily installed using out guide on the wiki) as well 
+Kd8Bot is completely free!
+
+All you need is NodeJs, and the required modules (easily installed using our guide on the wiki) as well 
 as the bot itself!
 
 # Contributing
-Kd8Bot itself is currently closed to contribution, apart from suggestions. However, feel free to Fork the bot, and create your own!
+*Kd8Bot itself is currently closed to contribution*, apart from suggestions. However, feel free to Fork the bot, and create your own!
     
 # Liscense
-Kd8Bot is liscenced under the Mozilla Public Liscense 2.0 
+*Kd8Bot is liscenced under the Mozilla Public Liscense 2.0*
