@@ -18,7 +18,7 @@ See it in action on Fate78's livestreams. http://twitch.tv/fate78
   There are games your users can play too! including, (but not limited to) a point-tossing frenzy! Allowing your users to get a 
   customizable return on their point invesment! (Or, for them to lose some points in the process!)
 
-*Chat moderation* *BETA*
+*Chat moderation* (*BETA*)
 ------------------------------------
   This module includes a banned word list, which (if you haven't guessed already) can be modified to contain any words 
   (or phrases) you want.
