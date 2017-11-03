@@ -35,7 +35,7 @@ information.
 ------------------------------------
 Your users can get a laugh out of past events, whether on stream or in chat, using our custom-made quote and clip storage system!
 Moderators and up can add and remove quotes and clips to their respective databases, and anybody can request for a quote or clip 
-link to be put in chat. Just make sure the bot has moderator, so it doesn't get banned by your other bots for putting in a link
+link to be put in chat. Just make sure the bot has moderator status, so it doesn't get banned by your other bots for putting in a link
 to a clip!
 
 See the command list on the wiki for more information on how to add or remove clips and quotes.
